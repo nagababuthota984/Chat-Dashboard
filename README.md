@@ -1,4 +1,3 @@
-![dataStructure](https://user-images.githubusercontent.com/57616322/134205782-767a78af-3b16-4c60-9b74-2d1bb093a3b2.png)
 Application Name:  
 WhatsApp 
 
@@ -15,3 +14,7 @@ Bare Minimum Inputs:
 Output:  
 A simple visualization page which shows the count of messages that we send and recieved today to/from a particular contact.
 ![Copy of ChatDashboardFeature-NagababuThota drawio](https://user-images.githubusercontent.com/57616322/134116114-3a26504e-e083-446b-a100-38e7bbc590ee.png)
+
+Structure of Data 
+![dataStructure](https://user-images.githubusercontent.com/57616322/134205782-767a78af-3b16-4c60-9b74-2d1bb093a3b2.png)
+
