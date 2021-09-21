@@ -13,3 +13,4 @@ Bare Minimum Inputs:
 
 Output:  
 A simple visualization page which shows the count of messages that we send and recieved today to/from a particular contact.
+![Copy of ChatDashboardFeature-NagababuThota drawio](https://user-images.githubusercontent.com/57616322/134116114-3a26504e-e083-446b-a100-38e7bbc590ee.png)
